@@ -22,6 +22,7 @@ box.addEventListener(("click"),()=>{
     }
     else{
         box.innerText="X";
+        box.style.color="red";
         turnO=true;
        
     } 
